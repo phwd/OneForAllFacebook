@@ -2,11 +2,14 @@
 
 See original for custom patching and FAQ https://github.com/Naituw/IPAPatch
 For certificate pinning in Android see https://github.com/pouyadarabi/Facebook_SSL_Pinning
-For details steps in Android see https://www.facebook.com/groups/349225725474262/permalink/416218442108323/
+For details and steps in Android see https://www.facebook.com/groups/349225725474262/permalink/416218442108323/
 
 The purpose of this is for bug hunting within the scope of facebook.com/whitehat
 I don't know your purpose.
 Stay woke and don't MITM yourself.
+
+Video to follow along https://www.facebook.com/113702895386410/videos/1466262083463811/
+Google is your friend.
 
 ## License
 
